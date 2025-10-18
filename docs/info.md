@@ -9,12 +9,15 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a basic T- flip flop - input from 2 and gates to 2 Xor's
 
 ## How to test
 
-Explain how to use your project
+pin 6 is straight connection to LED to check power
+pin 0,1 are output
+input is 2 and 3
+input is 1 and 7
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+List external hardware buttons, LEDs, resistors
